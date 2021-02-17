@@ -1,0 +1,51 @@
+body{
+    background-color: burlywood;
+    background-image: url(11.jpg);
+    background-size: 90%;
+    
+}
+
+div{
+    background-color:rgb(37, 224, 37);
+    color:rgb(77, 0, 128);
+    text-size-adjust: 25px;
+    text-align: center;
+    
+}
+
+
+h1{
+    text-align: center;
+    background-color: chartreuse;
+    color: red;
+    text-size-adjust: 10px;
+    
+}
+p
+{
+
+ color:black; 
+ text-transform:none;
+ font-size: 30px;
+ text-align: center;
+ padding-left: 10%; padding-right: 15%;
+
+}
+h2{
+    color:red;
+    text-align:left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4{
+    background-color: lightcoral;
+    color:blue;
+
+
+
+}
+h3{
+    background-color: brown;
+    color:chartreuse;
+    text-size-adjust: 10px;
+    
+}
